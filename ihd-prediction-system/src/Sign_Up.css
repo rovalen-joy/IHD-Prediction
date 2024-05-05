@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@300;700&display=swap'); /* for fonts */
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css'); /* for icons */
 
-.login-container {
+.signup-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,7 +9,7 @@
   background: linear-gradient(to bottom, #70D1DA 25%, #25B1BD 62%, #00A5B3 100%);
 }
 
-.login-box {
+.signup-box {
   padding: 40px;
   background: #ffffff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
